@@ -3,14 +3,14 @@ Kişi, varsayılan bir kullanıcı belirleyerek otomasyon içerisinde bir çok i
 
 ### İçindekiler
  #### atm
-    Kullanıcının arayüzünde gözükecek olan kısım.
+ Kullanıcının arayüzünde gözükecek olan kısım.
 
  #### Hesap
-    Kişi, hesap içerisine girdiğinde yapabileceği işlemlerin belirler.
+ Kişi, hesap içerisine girdiğinde yapabileceği işlemlerin belirler.
 
  #### Login
-    Kullanıcının bilgilerini ister ve doğruluğunu kontrol eder.
+ Kullanıcının bilgilerini ister ve doğruluğunu kontrol eder.
 
  #### Main
-    Kişi, varsayılan bir kullananıcı belirleyebilir.
+ Kişi, varsayılan bir kullananıcı belirleyebilir.
     
